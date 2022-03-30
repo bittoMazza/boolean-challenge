@@ -9,7 +9,6 @@ body{
 .container{
   background: rgba(0, 0, 0, 0.5);
   width: 1100px;
-  height: 750px;
   padding :50px ;
   border-radius:10px;
   margin-left: auto;
@@ -85,7 +84,6 @@ div h4 {
 
 .rectangleFede {
             width: 100px;
-            height: 30px;
             background: red;
 }
 
